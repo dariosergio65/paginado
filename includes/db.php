@@ -29,5 +29,5 @@ try {
 }finally{
     //$base=null;
 }
-echo "hasta aca funciona";
+//echo "hasta aca funciona";
 ?>
