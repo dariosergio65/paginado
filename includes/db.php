@@ -27,7 +27,7 @@ try {
     echo "Tipo de error : " . $e->getMessage() . "<br>";
     echo "Linea del error: " . $e->getLine();
 }finally{
-    $base=null;
+    //$base=null;
 }
 echo "hasta aca funciona";
 ?>
