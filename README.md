@@ -1,1 +1,2 @@
 # paginado
+Básico con Bootstrap
